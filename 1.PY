@@ -6,7 +6,6 @@ print("Ingrese el valor final (N):")
 J=  int(input())
 suma=0
 for i in range(1, J+1):
-     print(i)
      suma=suma+i    
 print("la suma es:",suma)
 
