@@ -8,3 +8,4 @@ suma=0
 for digit in number:
     suma=suma+int(digit)
 print(f"la suma de los digitos de {number} es:{suma}")    
+
